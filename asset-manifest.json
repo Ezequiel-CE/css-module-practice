@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/css-module-practice/static/css/main.c1c7e759.css",
+    "main.js": "/css-module-practice/static/js/main.c4b3e839.js",
+    "index.html": "/css-module-practice/index.html",
+    "main.c1c7e759.css.map": "/css-module-practice/static/css/main.c1c7e759.css.map",
+    "main.c4b3e839.js.map": "/css-module-practice/static/js/main.c4b3e839.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1c7e759.css",
+    "static/js/main.c4b3e839.js"
+  ]
+}
